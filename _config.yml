@@ -98,7 +98,7 @@ keywords: "covid,vaccination,automatic,auto,register,signup"
 
 navbar-col: "#842BE3"
 navbar-text-col: "#33E1D4"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#33E1D4"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
